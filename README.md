@@ -1,7 +1,6 @@
 ##  Conversor de monedas Desafio (Alura Latam- Oracle) Grupo#6
 
-![image oracle](https://github.com/JosB12/Conversor-De-Monedas/assets/121702785/7294f9a7-3d9d-400b-9d22-02ff7843221c](https://images.app.goo.gl/WgHjAwpvW6ekU6JY8))
-
+![oracle portada] (https://images.app.goo.gl/WgHjAwpvW6ekU6JY8)
 
 Este proyecto fue creado con el fin de completar el challenge de alura latam y oracle next education, este proyecto ayudara al reforzamiento de los conocimientos y la mejora de la logica.
 
