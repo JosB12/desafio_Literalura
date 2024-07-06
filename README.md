@@ -1,4 +1,4 @@
-##  Conversor de monedas Desafio (Alura Latam- Oracle) Grupo#6
+##  Literalura Desafio (Alura Latam- Oracle) Grupo#6
 
 ![oracle post](https://github.com/JosB12/desafio_Literalura/assets/121702785/a8842fa7-124b-4844-ac36-e222e1e1079f)
 
@@ -46,8 +46,8 @@ El proyecto se conecta a una base de datos y persiste los datos en esta para pod
 - `IDE IntelliJ IDEA 2023.3.2`
 - `Git`
 - `GitHub`
--`SpringBoot`
--`Postgresql`
+- `SpringBoot`
+- `Postgresql`
 
 ## Autor
 Josue Ismael Blanco Sanchez  | Contacto: blancojosue931@gmail.com
