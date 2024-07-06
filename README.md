@@ -1,11 +1,11 @@
 ##  Conversor de monedas Desafio (Alura Latam- Oracle) Grupo#6
 
-![oracle portada] (https://images.app.goo.gl/WgHjAwpvW6ekU6JY8)
+![oracle post](https://github.com/JosB12/desafio_Literalura/assets/121702785/a8842fa7-124b-4844-ac36-e222e1e1079f)
 
 Este proyecto fue creado con el fin de completar el challenge de alura latam y oracle next education, este proyecto ayudara al reforzamiento de los conocimientos y la mejora de la logica.
 
 
-![Static Badge](https://img.shields.io/badge/Java-orange?logo=coffeescript&label=Software) ![Static Badge](https://img.shields.io/badge/on-green?label=Status)
+![Static Badge](https://img.shields.io/badge/Java-orange?logo=coffeescript&label=Software) ![Static Badge](https://img.shields.io/badge/SpringBoot-green?logo=coffeescript&label=FrameWork) ![Static Badge](https://img.shields.io/badge/on-green?label=Status)
 
 ## ¿Como descargarlo?
 
@@ -21,27 +21,33 @@ Descomprimir el archivo
 ###3 
 Mover el archivo descomprimido al IDE que estes utilizando
 
-###4 
-Utilizar versiones 11+ de java (Este proyecto esta hecho con Java 17)
+###4
+Cargar dependencias en el POM
+
+###5 
+Cambiar el los datos en la conexion a la base de datos a la que este usted utilizando
 
 ###5
-Descargar la biblioteca Gson e importarla al IDE
-
-###6 
-Ejecutar la clase "Principal" en la que se encuentra el main
+Ejecutar la clase "DesafioLiteraluraApplication" en la que se encuentra el main
 
 
 ## :hammer:Funcionalid del proyecto
 
-El proyecto muestra un menu al usuario en el que tiene varias monedas a convertir, en este menu el usuario hara su eleccion y digitara el monto a convertir.
-
+El proyecto se comunica con la api de gutendex.com la cual es una api de libros, la aplicacion consume la api y realiza 5 funcionalidades diferentes las cuales son:
+                    1- Buscar libro por titulo
+                    2- Listar libros registrados
+                    3- Listar autores registrados
+                    4- Listar autores vivos en un determinado año
+                    5- Listar libros por idioma
+El proyecto se conecta a una base de datos y persiste los datos en esta para poder llamarlos cuando queramos
 
 ##✔️Tecnologias utilizadas
 - `Java 17`
 - `IDE IntelliJ IDEA 2023.3.2`
 - `Git`
 - `GitHub`
-
+-`SpringBoot`
+-`Postgresql`
 
 ## Autor
 Josue Ismael Blanco Sanchez  | Contacto: blancojosue931@gmail.com
